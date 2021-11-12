@@ -16,7 +16,10 @@ def Luisa():
        print('Luisa')
 def Jesica():
        print('Hola')
-def veronica():
+def veronica(a,b):
+   c = a**2
+   d = c+(b/2)
+   return d
    print('verónica')
 def jfochoa():
     print("John Ochoa")
