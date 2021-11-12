@@ -11,6 +11,9 @@ def test_prueba():
     assert fun.veronica(2,10) == 9
 
 def test_suma():
+    """
+    Docuemntación suma
+    """
     assert fun.sumar(5,4) == 9
 
 
