@@ -36,7 +36,7 @@ jobs:
         pip install .
     - name: Test with pytest
       run: |
-        pytest tests/ --cov=examplepy/ --cov-report=xml --verbose -s
+        pytest test/ --cov=paquete/ --cov-report=xml --verbose -s
     - name : Coverage
       uses: codecov/codecov-action@v1
       with:
