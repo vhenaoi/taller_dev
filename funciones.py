@@ -1,8 +1,18 @@
+def sumar(a,b):
+
+    c = a + b
+    return c
 def yorguin():
    print('yorguin')
 
 def veronica():
    print('verónica')
+def Antonia():
+      print('Antonia')
+def yeimmy():
+   print("Yeimmy Morales")
+def Dahiana():
+       print('Hola chicos!!')
 def camila():
        print("Camila")
        
