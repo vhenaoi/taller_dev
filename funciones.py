@@ -7,6 +7,11 @@ def yorguin():
 
 def veronica():
    print('verónica')
+<<<<<<< HEAD
+=======
+def jfochoa():
+    print("John Ochoa")
+>>>>>>> 38ed27278781d1172e4553c3ba744af4b286e2f6
 def Antonia():
       print('Antonia')
 def yeimmy():
